@@ -11,7 +11,7 @@ import Footer from './components/Footer.vue';
 export default {
   components: {
     Navbar,
-    Footer    
+    Footer
   },
   data() {
     return {
@@ -39,7 +39,7 @@ export default {
   h1 {
     text-align: center;
     font-size: 42px;
-    margin-botton: 30px;
+    margin-bottom: 30px;
     color: #222;
   }
 </style>
